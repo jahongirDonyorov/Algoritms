@@ -1,2 +1,2 @@
 # Algoritms
-# Bu mening algoritm darsligim
+ Bu mening algoritm darsligim
